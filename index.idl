@@ -1,0 +1,218 @@
+[meta title:"computer" description:"Fan-made Paranoia RPG" /]
+
+[Header
+  title:"the computer is your friend"
+  subtitle:"a quick hack for playing Paranaoia"
+/]
+
+## creation
+Your Troubleshooter has a first name, RED clearance, and a three-letter home sector. They also have five stats: Tough, Quick, Cunning, Convincing, and Mutant. 
+
+[aside]
+	##### dice conventions
+	Whenever you see the letter 'd' before a number, that's just shorthand for 'a die of that-number sides'. d4 means a four-sided die, d6 means a six-sided die, d8 means an eight-sided die, and d10 means a ten-sided die.
+[/aside]
+
+Pick what you’re best at and write d10 in its space on your character sheet.
+
+
+Turn to the player to your left (skip the GM) and they’ll pick what you’re worst at. Write d4 in its space.
+
+Finally, distribute d6, d6, and d8 into the three remaining stats as you see fit. You’ll begin with 6 Health, a RED-clearance jumpsuit, a personal communicator, and a 3-ammo 2-damage RED laser pistol. 
+
+Ask your GM what your mutant power is. Don’t tell anyone else.
+
+## rolling 
+When you attempt something risky, dramatic, or stupid, the GM will tell you what stat to roll. If you're targeting another character (for instance, with a lie, a laser blast, or a punch to the face), they roll the relevant stat to avoid being affected. 
+
+If instead you're rolling to overcome a challenge - like leaping over a pit of killbots or repairing a nuclear reactor - the GM will roll a d6 Disaster Die to represent your odds of failure.
+
+If you beat the opposing roll, your character will succeed. If you equal the opposing roll, your character will succeed, but face a complication: the GM will offer you a hard choice or a worse outcome. 
+
+If you roll lower than the opposition, your character has failed, probably very badly.
+
+## extra dice
+When another player is able to help you out with a specific problem (and describes how they help), you gain a d6 Trust Die that you’ll roll alongside your stat die.
+[aside]
+	#### a note on notes
+	Paranoid gaming works best when everyone else can see that you're plotting something. For this reason, secret plans of action must be conveyed between players and the GM via handwritten notes - no texting, Morse code, or smoke signals allowed.
+[/aside]
+
+When another player sabotages you, either covertly or openly, the GM or your opponent gains an additional d6 Disaster Die. (Passing notes to the GM describing your betrayal is an excellent tactic.)
+
+Any time a player or GM rolls multiple dice, they take only the single highest result.
+
+## clones
+You have six. (Try not to waste them.)
+
+If you die, you manage to make it back to the group a few minutes later via tube-delivery, man-cannon, drone drop-off, or any other implausibly rapid means. You have whatever gear you began the mission with (personal and assigned) and only foggy memories of the moments leading up to your death.
+
+## initiative
+When you want to shoot another player (and it’s a surprise), point at them and shout **“BANG!”** 
+
+If you got the drop on them, you get a free shoot (Quick) roll before combat starts.
+
+## combat
+When you get into a fight, every player chooses a stat die and rolls it simultaneously. Going around the table from highest to lowest, each person gets to move and take an action.
+
+Your action should correspond to the stat you rolled, although feel free to lie if you think you can get away with it. (If the GM or anyone else calls you on it, you lose your action). 
+
+When you take your action, don't re-roll the stat die: use it as it lies. When defending against attacks, you must use a different stat - if you're focused on shooting, you can't also use Quick to dodge someone else's laser blast.
+
+## shooting and ammo
+When you receive a complication on a shooting roll, burn 1 ammo. Don’t track your shots otherwise – it’s only desperate near-misses that really chew through your ammunition. 
+
+At 0-ammo, your gun’s dry. Ask the equipment guy for more ammunition, and hope they’re in a giving mood.
+
+## roles
+These roles are assigned during the briefing for each mission. If you have more than five players, tough - let them argue for who deserves the power. 
+
+In addition to the usual in-game powers and responsibilities that come with these roles, each role has a mechanical ability, as described below.
+
+#### team leader
+Regardless of what they rolled on their stat die in combat, the team leader can always choose to go first ("in order to set an example") or last ("in order to protect the chain of command") in each combat round. As well, they break ties on initiative in combat.
+
+#### happiness officer
+The happiness officer begins each mission with a pool of five d6 Morale Dice. If they declare that a character is exhibiting excellent morale, they can grant one Morale Die as a bonus to a specific roll. 
+
+If they decide that a character is exhibiting poor morale, they can give a Morale Die to whoever is rolling against that character. 
+
+The GM may ask them to explain, even tenuously, what behaviour has warranted their dice assignments.
+
+#### loyalty officer
+The loyalty officer begins each mission with one Suspicion Token. They can spend this token to intercept and inspect a note being passed. Note that they have to actually see the note being passed, and that once it's in the GM's hands, it's no longer fair game. They cannot show the note to the other players, but are allowed to describe its contents (if they wish).
+
+Every time a character (other than the loyalty officer) is executed for treason with the permission of the Computer or a higher-clearance citizen, they regain their Suspicion Token. 
+
+#### hygiene officer
+The hygiene officer can demand spot checks of other players' parts of the table - if they find crumbs, spills, or other evidence of poor hygiene, all rolls opposing that player gain an additional d6 Poor Hygiene die until everything's cleaned up.
+
+#### equipment guy
+The equipment guy begins each mission with a pool of three Malfunction Tokens. They can spend these tokens, 1:1, to declare that a teammate's laser pistol has suffered an unfortunate malfunction. They can do this at any time, even on another player's turn in combat. Note that it might be suspicious, and indeed treasonous, if it happens to the same person more than once.
+
+Also, any dice that roll off the table become the property of the equipment guy. Bribes to get your dice back are accepted and encouraged.
+
+##equipment
+Almost everything not assigned to you at the beginning of the mission is treasonous to possess.
+
+#### weapons
+* zapgun: 0 damage, 1 ammo, stuns (target loses next turn)
+* your fists: 1 damage, melee
+* INFRARED-market knockoff laser pistol: 1 damage, 2 ammo
+* really nasty knife: 2 damage, melee
+* RED laser pistol: 2 damage, 3 ammo
+* cone rifle: 2 damage, 2 ammo, group
+* military-issue slugthrower: 3 damage, 4 ammo
+* grenade: 3 damage, group
+* tacnuke: 1000 damage, everyone in the sector
+
+#### armor
+* INFRARED impact armor: -1 incoming damage from melee
+* ORANGE reflec armor: -1 incoming damage from lasers
+* military-issue armor: -1 incoming damage from everything
+* DTH-TRP powered armor: +2 melee damage, -2 incoming damage from everything, opposing rolls get bonus d6 Deathtrap die
+
+#### gear
+* AlgaeFun Energy Beverage: gain a bonus d6 Energized! die on your next roll, and then give a d4 Withdrawal! die to your opposition on your next two rolls 
+* medic's kit: heal target to full or bring them to 1 Health (opposed Cunning rolls between medic and patient - winner decides)
+* personal communicator: speak to Troubleshooter Central, check the C-Net, call the Computer
+* time bomb: 5 damage, area, requires Cunning roll to set timer correctly
+
+#### experimental gear
+You will usually be assigned experimental gear to test in the field at the beginning of each mission. Details about this type of equipment is, of course, classified. (But GMs, see the Appendix for more).
+
+## non-player characters
+GM-controlled characters have only two stats: Opposition and Health. 
+* Pathetic enemies: d4 Opposition, 2 Health.
+* Competent foes: d6 Opposition, 4 Health.
+* Scary, well-armed opposition: d8 Opposition, 6 Health.
+* Terrifying killbots and jacked-up mutant monsters: d10 Opposition, at least 8 Health.
+
+When NPCs take actions, the GM rolls a single die for the entire group and uses that result for each action taken by a member of the group. In combat, they get a second die of the same size to roll for defense - as with players, their action die never gets re-rolled.
+
+## appendix a: an example of combat
+*Hitcha-R-IDE-1 and Gareth-R-AID-2 round the corner and find themselves facing two ragged mutants and the BLUE-rank military traitor they've been sent to find. The GM declares that combat has begun*.[br /]
+
+Hitch and Gareth both decide they'd probably like to open fire and roll Quick (which is d8 for both characters).
+
+Hitch rolls a 6, and Gareth rolls a 2.
+
+At the same time, the GM rolls for her characters. She decides the mutants aren't much of a threat and gives them a d4 Opposition, and rolls a 1.
+
+The soldier is pretty well-trained, so she gives him a d8, and rolls a 5.
+
+Hitch gets the first action. Since he rolled Quick, whatever he does should be related to agility or precision. He decides to shoot one of the mutants. The GM grabs another d4 and rolls to defend, but only gets a 1, which is a success for Gareth. She narrates his laser bolt catching one of the mutants between the eyes, dealing two damage and killing the monster instantly.
+
+Next, the GM goes with the soldier. She describes him raising his nasty slugthrower rifle and laying down fire on Hitch in revenge. Hitch, who can't defend with Quick, instead describes how he was smart enough to see this coming and uses Cunning (d6), rolling a lucky 6.
+
+*Continuing on, Gareth would get his turn, followed by the GM's single remaining mutant. After that, the round restarts, with all surviving combatants rolling again.*
+
+## appendix b: experimental gear 
+Each table below has 20 entries, so roll 1d20 once for an adjective, once for a design, and then once more for the device's function.
+
+[Table data:`[{adjective: "Explosive", design: "Backpack-mounted device"}, 
+			  {adjective: "Radioactive", design: "Goggles"},
+			  {adjective: "Psychic", design: "Briefcase"},
+			  {adjective: "Electrified", design: "Pistol"},
+			  {adjective: "Flaming", design: "Aerosol canister"},
+			  {adjective: "Invisible", design: "Grenade"},
+			  {adjective: '"Invisible"', design: "Robot buddy"},
+			  {adjective: "Microscopic", design: "Jumpsuit"},
+			  {adjective: "Massive", design: "Helmet"},
+			  {adjective: "Glowing", design: "Cannon"},			  
+			  {adjective: "Invisible", design: "Camera"},
+			  {adjective: '"Invisible"', design: "Crowbar"},
+			  {adjective: "Microscopic", design: "Hat"},
+			  {adjective: "Massive", design: "Tablet"},
+			  {adjective: "Glowing", design: "Gift-wrapped present"},			
+			  {adjective: "Slippery", design: "Stick"},			
+			  {adjective: "Sneaky", design: "Can of paint"},	
+			  {adjective: "Floating", design: "Extension cord"},	
+			  {adjective: "Heavy", design: "Statue"},	
+			  {adjective: "Intelligent", design: "Bomb"},		  
+			  ]` /]
+[Table data:`[{function: "Generates an anti-gravity bubble"},
+			  {function: "Dispenses tasty snacks"},
+			  {function: "Sings incredibly annoying songs"},
+			  {function: "Projects advertisements for Bouncy Bubble Beverage"},
+			  {function: "Deadens mutant powers"},
+			  {function: "Offers useless advice"},
+			  {function: "Explodes skulls"},
+			  {function: "Makes you exactly half invisible"},
+			  {function: "Inflames passion for dance"},
+			  {function: "Digs very good holes"},
+			  {function: "Remote control over machines"},
+			  {function: '"Not entirely sure, to be totally honest."'},
+			  {function: "Makes an ominous ticking sound"},
+			  {function: "Summons small appliances from a pocket dimension"},	
+			  {function: "Explodes violently, then rebuilds itself"},
+			  {function: "Checks loyalty and morale via probing questions"},
+			  {function: "Just seems like a regular mirror"},
+			  {function: "Combat toothbrush"},
+			  {function: "Acts like a friendly pet"},
+			  {function: "Sends powerful electric shocks in response to negative statements"}]` /]
+			  
+[Table data: `[{"more functions": "Dictionary"}, 
+              {"more functions": "Huggable, Talking Plush Computer: Your Friend Forever"},
+			  {"more functions": "The Fashiontron 5000"},
+			  {"more functions": "Indicates which way is up at all times"},
+			  {"more functions": "Spits out cookies"},
+		      {"more functions": "Combination megaphone/police siren/net-gun"},
+			  {"more functions": "Telepathic radio"},
+			  {"more functions": "Salt shaker"},
+			  {"more functions": "Alpha-Complex-army knife, complete with power sander and machete"},
+			  {"more functions": "Weaponized shower"},
+			  {"more functions": "Vacuums at a dangerous level of suction"},
+			  {"more functions": "Roll again, and tell only the Team Leader what it does"},			 
+			  {"more functions": "Death predictor and obituary generator"},
+			  {"more functions": "Holographic projector"},
+			  {"more functions": "None whatsoever"},
+			  {"more functions": "Universal lockpick"},
+			  {"more functions": "Inverse Geiger counter"},
+			  {"more functions": "Silences all nearby sound"},
+			  {"more functions": "Lie detector (impossible to turn off)"},
+			  {"more functions": "Roll three more times. Only mention one of the functions."},		
+			  ]` /]
+
+
+
